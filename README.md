@@ -1,4 +1,4 @@
-### 🙋‍♂️ Hi Hello Namaste
+### 🙋‍♂️ Hello नमस्ते ਨਮਸਕਾਰ 
 ![](https://komarev.com/ghpvc/?username=kapoor-rakshit)
 <!--
 **kapoor-rakshit/kapoor-rakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
