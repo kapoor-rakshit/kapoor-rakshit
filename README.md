@@ -1,5 +1,7 @@
-### 🙋‍♂️ Hello नमस्ते ਨਮਸਕਾਰ 
-### Our motto : नेकी कर गिटहब पर डाल 
+🙋‍♂️ Hello नमस्ते ਨਮਸਕਾਰ
+<br/>
+My motto : नेकी कर, GitHub पर डाल 
+<br/>
 ![](https://komarev.com/ghpvc/?username=kapoor-rakshit)
 <!--
 **kapoor-rakshit/kapoor-rakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
